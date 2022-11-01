@@ -1,0 +1,38 @@
+footer{
+    min-height: 200px;
+    background-image: linear-gradient(90deg, #414850, #131720);
+    display: flex;
+    justify-content: space-around   ;
+    flex-wrap: wrap;
+}
+footer .content{
+    width: 33%;
+    padding: 10px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    
+}
+
+@media screen and (max-width: 1024px){
+    footer .content{
+     width: 50%;
+    }
+     
+ }
+ 
+ @media screen and (max-width: 600px){
+     footer .content{
+         width: 100%;
+        }
+     
+ }
+ 
+ @media screen and (max-width: 568px){
+     .content{
+         width: 100%;
+
+        }
+ }
+ 
