@@ -1,1 +1,1 @@
-You Can check this website : https://moivesbya.netlify.app/
+You Can check this website : https://moviesbya.netlify.app/
